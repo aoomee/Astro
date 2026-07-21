@@ -1,7 +1,7 @@
 {
   "essay": {
     "title": "随笔",
-    "subtitle": "随笔与杂记"
+    "subtitle": "慢慢说"
   },
   "archive": {
     "title": "归档",
@@ -16,7 +16,7 @@
     }
   },
   "memo": {
-    "title": null,
+    "title": "小记",
     "subtitle": null
   },
   "about": {
