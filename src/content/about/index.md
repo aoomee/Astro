@@ -1,37 +1,49 @@
 ---
 ---
 
-你好，欢迎来到这里
+你好，这里是 Ovoee。
 
-这是 Whono 主题的 about 页面示例
+一个写字的地方，也是给自己留的一点空间。
 
-示例内容覆盖站点介绍、友链列表、常见问题与联系说明，可按实际站点替换。
+写随笔，也记录生活里那些细碎的光——
+深夜咖啡馆里的陌生人，搬家当晚用纸箱当桌子的晚饭，
+旧书店的铃铛声，还有夜跑路上依次亮起的路灯。
+
+不追热点，不赶进度。
+相信文字是思考的方式，相信安静也是一种选择。
+
+如果这里的内容恰好让你停下来一会儿，
+那就够了。
 
 ## 朋友们
 
-:::friend{name="Astro" url="https://astro.build/" avatar="https://cdn.nodeimage.com/i/LAW2Al4JZrPhfTs7ObHbisPLGwWuR6x5.webp"}
-用于构建高性能内容网站的前端框架
+:::friend{name="Whono" url="https://github.com/cxro/astro-whono" avatar="author/avatar.webp"}
+这个博客使用的开源主题
 :::
 
-:::friend{name="Whono" url="https://github.com/cxro/astro-whono" avatar="author/avatar.webp"}
-一个极简的双栏 Astro 主题
+:::friend{name="Astro" url="https://astro.build/" avatar="https://cdn.nodeimage.com/i/LAW2Al4JZrPhfTs7ObHbisPLGwWuR6x5.webp"}
+驱动这个站点的前端框架
 :::
 
 
 ## 常见问题
 
 :::faq{question="如何交换友链？"}
-可以通过 GitHub Issue 联系我或者 [发送邮件](mailto:你的邮箱@example.com?subject=交换友链申请&body=站点名称：%0A链接：%0A简介：%0A头像：)，请附上站点名称、链接、简介和头像。
+可以通过 GitHub 联系我，请附上站点名称、链接、简介和头像。
 
-::site-info{name="Whono" url="https://astro.whono.me/" description="一个极简的双栏 Astro 主题" avatar="https://astro.whono.me/author/avatar.webp"}
+::site-info{name="Ovoee" url="https://ovoee.com/" description="一个写字的地方" avatar="https://ovoee.com/author/avatar.webp"}
 :::
 
 :::faq{question="可以转载这里的内容吗？"}
 转载请注明出处；如果某篇文章单独标注了授权方式，以那篇文章的说明为准。
 :::
 
+:::faq{question="更新频率？"}
+没有固定频率。有想写的就写，没有就安静着。
+:::
+
 ## 联系
 
-如果你有问题、建议，或想订阅更新，欢迎联系。
+如果你有话想说，或者只是想打个招呼。
 
 ::contact-links
