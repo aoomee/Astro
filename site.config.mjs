@@ -1,7 +1,7 @@
 const rawSiteUrl = (process.env.SITE_URL ?? '').trim();
 const siteUrl = rawSiteUrl ? rawSiteUrl.replace(/\/+$/, '') : '';
 const hasSiteUrl = siteUrl.length > 0;
-const fallbackSiteUrl = 'https://example.invalid';
+const fallbackSiteUrl = 'https://ovoee.com';
 const siteUrlWarningFlag = 'ASTRO_WHONO_SITE_URL_WARNING_SHOWN';
 
 if (
@@ -17,11 +17,11 @@ if (
 
 export const site = {
   url: hasSiteUrl ? siteUrl : fallbackSiteUrl,
-  title: 'Astro Themes by Whono',
-  brandTitle: 'Whono',
-  author: 'Whono',
+  title: 'Ovoee',
+  brandTitle: 'Ovoee',
+  author: '林清苓',
   authorAvatar: 'author/avatar.webp',
-  description: '一个 Astro 主题的展示站：轻量、可维护、可复用。'
+  description: 'Ovoee'
 };
 
 export const PAGE_SIZE_ARCHIVE = 12;
