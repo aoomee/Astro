@@ -7,7 +7,7 @@
   },
   "sidebarActions": {
     "showRssLink": false,
-    "showThemeToggle": false,
+    "showThemeToggle": true,
     "showAdminEntry": false
   },
   "articleMeta": {
