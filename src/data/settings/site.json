@@ -12,7 +12,14 @@
     "hiddenMessage": "作者暂未公开此页面。"
   },
   "socialLinks": {
-    "presetOrder": {},
+    "github": null,
+    "x": null,
+    "email": null,
+    "presetOrder": {
+      "github": 1,
+      "x": 2,
+      "email": 3
+    },
     "custom": []
   }
 }
